@@ -1,0 +1,13 @@
+{
+    "name": "my_portfolio_website/my_portfolio_website",
+    "description": "php portfolio website",
+    "type": "project",
+    "keywords": [],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"app//"
+        }
+    }
+}
